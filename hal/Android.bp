@@ -14,7 +14,6 @@ cc_library_shared {
         "libhidlbase",
         "libhidltransport",
         "liblog",
-        "libcutils",
         "libdl",
         "libbase",
         "libutils",
